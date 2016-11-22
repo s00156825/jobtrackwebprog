@@ -1,0 +1,334 @@
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\csc.exe
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\vbc.exe
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\jobtrack.dll.config
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\jobtrack.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\jobtrack.pdb
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Antlr3.Runtime.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\EntityFramework.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\EntityFramework.SqlServer.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Newtonsoft.Json.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Owin.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\System.Web.Optimization.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\System.Web.Providers.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\WebGrease.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\System.Web.Optimization.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Antlr3.Runtime.pdb
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Newtonsoft.Json.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\EntityFramework.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\EntityFramework.SqlServer.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\System.Web.Providers.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\obj\Debug\jobtrack.csprojResolveAssemblyReference.cache
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\obj\Debug\jobtrack.dll
+C:\Users\Chris\websites\jobtrack3\jobtrack\jobtrack\obj\Debug\jobtrack.pdb
+<<<<<<< HEAD
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\csc.exe
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\vbc.exe
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\jobtrack.dll.config
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\jobtrack.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\jobtrack.pdb
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Antlr3.Runtime.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\EntityFramework.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\EntityFramework.SqlServer.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Newtonsoft.Json.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Owin.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\System.Web.Optimization.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\System.Web.Providers.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\WebGrease.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\System.Web.Optimization.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Antlr3.Runtime.pdb
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Newtonsoft.Json.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\EntityFramework.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\EntityFramework.SqlServer.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\System.Web.Providers.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\obj\Debug\jobtrack.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\obj\Debug\jobtrack.dll
+C:\Users\marta\Desktop\New folder\jobtrack\jobtrack\obj\Debug\jobtrack.pdb
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\csc.exe
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\vbc.exe
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\jobtrack.dll.config
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\jobtrack.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\jobtrack.pdb
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Antlr3.Runtime.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\EntityFramework.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\EntityFramework.SqlServer.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Newtonsoft.Json.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\System.Web.Optimization.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\System.Web.Providers.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\WebGrease.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\System.Web.Optimization.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Antlr3.Runtime.pdb
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Newtonsoft.Json.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\EntityFramework.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\EntityFramework.SqlServer.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\System.Web.Providers.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\obj\Debug\jobtrack.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\obj\Debug\jobtrack.dll
+C:\Users\marta\Desktop\JOB_TRACK_latestVersion\jobtrack\jobtrack\obj\Debug\jobtrack.pdb
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\csc.exe
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\vbc.exe
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\jobtrack.dll.config
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\jobtrack.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\jobtrack.pdb
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Antlr3.Runtime.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\EntityFramework.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\EntityFramework.SqlServer.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Newtonsoft.Json.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Owin.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\System.Web.Optimization.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\System.Web.Providers.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\WebGrease.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\System.Web.Optimization.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Antlr3.Runtime.pdb
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Newtonsoft.Json.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\EntityFramework.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\EntityFramework.SqlServer.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\System.Web.Providers.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\obj\Debug\jobtrack.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\obj\Debug\jobtrack.dll
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\obj\Debug\jobtrack.pdb
+C:\Users\marta\Desktop\JOB_TRACK_21.11_marta\jobtrack\jobtrack\obj\Debug\jobtrack.g.resources
+=======
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\csc.exe
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\vbc.exe
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\jobtrack.dll.config
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\jobtrack.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\jobtrack.pdb
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Antlr3.Runtime.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\EntityFramework.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\EntityFramework.SqlServer.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Newtonsoft.Json.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Owin.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\System.Web.Optimization.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\System.Web.Providers.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\WebGrease.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\System.Web.Optimization.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Antlr3.Runtime.pdb
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Newtonsoft.Json.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\EntityFramework.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\EntityFramework.SqlServer.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\System.Web.Providers.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\obj\Debug\jobtrack.csprojResolveAssemblyReference.cache
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\obj\Debug\jobtrack.dll
+C:\Users\marta\Desktop\jobTrack_1.4\jobtrack\jobtrack\jobtrack\obj\Debug\jobtrack.pdb
+>>>>>>> 2220a9e743f0919fba1b548c90491d82c5d4cf6f

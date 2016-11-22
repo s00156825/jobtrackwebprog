@@ -1,0 +1,141 @@
+﻿body {
+    /*  padding on top to make room for fixed navbar */
+    padding-top: 50px;
+    padding-bottom: 0;
+}
+
+/*
+    Navigation
+*/
+.navbar-inverse {
+    background: rgb(69,72,77);
+    background: -moz-linear-gradient(top, rgba(69,72,77,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(top, rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%);
+    background: linear-gradient(to bottom, rgba(69,72,77,1) 0%,rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 );
+    border-color: #080808;
+}
+
+.full-screen {
+    height: 100vh;
+   
+}
+
+div.landing-page {
+    margin-bottom: 0;
+}
+
+<<<<<<< HEAD
+/*
+    Social Media Icons
+*/
+=======
+>>>>>>> 2220a9e743f0919fba1b548c90491d82c5d4cf6f
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ 
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ .social {
+     -webkit-transform: scale(0.8);
+     /* Browser Variations: */
+     
+     -moz-transform: scale(0.8);
+     -o-transform: scale(0.8);
+     -webkit-transition-duration: 0.5s;
+     -moz-transition-duration: 0.5s;
+     -o-transition-duration: 0.5s;
+ }
+
+/*
+    Multicoloured Hover Variations
+*/
+ 
+ #social-fb:hover {
+     color: #3B5998;
+ }
+ #social-tw:hover {
+     color: #4099FF;
+ }
+ #social-gp:hover {
+     color: #d34836;
+ }
+ #social-em:hover {
+     color: #f39c12;
+ }
+
+<<<<<<< HEAD
+ /*
+     OpenAuth Login Buttons
+ */
+
+ .facebook_button, .google_button {
+    width: 100px;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    transition: ease 0.3s;
+}
+
+.facebook_button {
+    background-color: #3b5998;
+}
+
+.google_button {
+    background-color: #db3236;
+}
+
+ /*
+     Form Elements
+ */
+
+ select.form-control {
+     max-width: 280px;
+ }
+=======
+>>>>>>> 2220a9e743f0919fba1b548c90491d82c5d4cf6f
+
+ /* 
+     Media Queries
+ */
+
+@media (min-width: 768px) {
+    .navbar {
+        border-radius: 0;
+        box-shadow: 0px 3px 3px rgba(0,0,0,0.5);
+        margin-bottom: 0;
+    }
+
+    .page-footer {
+        min-height: 50px;
+        background-color: #222;
+        padding: 20px;
+        color: #fff;
+        margin-top: 10px;
+        overflow: hidden;
+    }
+
+
+<<<<<<< HEAD
+}
+
+/*
+    Grid view Selected Row
+*/
+.selectedRow {
+    background-color:lightblue;
+    border: 1px solid #4099FF;
+
+}
+.div_AddNewEmployeeSection {
+    visibility:hidden;
+
+=======
+>>>>>>> 2220a9e743f0919fba1b548c90491d82c5d4cf6f
+}
